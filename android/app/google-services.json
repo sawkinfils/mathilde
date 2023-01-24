@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98886085823",
+    "project_id": "mathilde-6eaaa",
+    "storage_bucket": "mathilde-6eaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98886085823:android:8606dac3ace571369bea0a",
+        "android_client_info": {
+          "package_name": "com.example.kadibot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98886085823-hghfvqefflmd44llglkasb706spcfhk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JBKyMZ9jE0KI8tycemMb6411KsGqCC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98886085823-hghfvqefflmd44llglkasb706spcfhk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
